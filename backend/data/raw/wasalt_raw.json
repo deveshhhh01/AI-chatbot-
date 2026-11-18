@@ -1,0 +1,856 @@
+[
+  {
+    "id": "wasalt_5891036",
+    "source": "Wasalt",
+    "project_name": "Villa 250 SQM Facing South with 9 Bedrooms",
+    "description": "فيلا للإيجار حي النرجس الدور : دور أرضي - أول - ثاني الموقع : الرياض حي النرجس الواجهة : جنوبية 15م المساحة : 250 تقريباً العمر : 14 سنة تقريباً عبارة عن : الدور الأول : صالة واسعة + محلس نساء + مقلط + مجلس رجال + مطبخ داخلي + مطبخ خارجي + ملحق خارجي + مدخل سيارة . الدور الثاني : 4 غرف 2 منهم ماستر وحدة معه غرفة ملابس +  + صالة واسعة مع ركن مطبخ . الدور الثالث : سطح واسع + غرفة خادمة مع دورة مياه + مستودع + مكان للغسيل . مجموع دورات المياه : 6 ( سيتم إزالة الأثاث عند التأجير ) مطبخ راكب ✅ 14 مكيفات سبيلت راكبة ✅ 2 مكيف شباك راكبة ✅ باب قراش ✅ عداد كهرب خاص ✅ حوش ✅ سطح ✅ عداد ماء مستقل ✅ الصرف الصحي و الماء ✅ صندوق الإنترنت ✅ السعر : 125 ألف دفعتين 120 ألف دفعة لمزيد من التفاصيل وفديو واتس : 0545752077",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "address": "An-Narjis, North Riyadh, Riyadh"
+    },
+    "property_type": "Villa",
+    "price": {
+      "amount": 120000.0,
+      "currency": "SAR",
+      "formatted": "120,000 SAR"
+    },
+    "bedrooms": 9,
+    "bathrooms": 6,
+    "area_sqm": 250.0,
+    "amenities": [
+      "Living Rooms",
+      "Guest Rooms"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/rent/villa-250-sqm-facing-south-with-9-bedrooms-5891036",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891063",
+    "source": "Wasalt",
+    "project_name": "Apartment 525 SQM with 1 Bedroom",
+    "description": "Apartment for Rent in Al Bawadi, Jeddah Built up Area: 525 SQM The property has 1 bedroom Apartment has electricity and water Connections Building year: 2026 Price: 2000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Bawadi, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 2000.0,
+      "currency": "SAR",
+      "formatted": "2,000 SAR"
+    },
+    "bedrooms": 1,
+    "bathrooms": null,
+    "area_sqm": 525.0,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-525-sqm-with-1-bedroom-5891063",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891085",
+    "source": "Wasalt",
+    "project_name": "Apartment 730.99 SQM with 1 Bedroom",
+    "description": "🌿  بعد يوم طويل… تستحق مكانًا ترتاح فيه. 🏡  شقة جديدة للإيجار – جدة | حي التيسير مكان هادئ ومريح، قريب من الخدمات، ومناسب لمن يبحث عن سكن عملي ومرتب. 🏠  الشقة تتكون من: 🛏️ غرفة نوم 🛋️ صالة 🍳 مطبخ 🚿 دورة مياه 💎  المميزات: ✔️ جديدة ونظيفة ✔️ تشطيب عصري ✔️ الماء والكهرباء شاملان ✔️ مصعد ✔️ مواقف سيارات ✔️ قريبة من الخدمات والأسواق ✔️ أجواء هادئة للسكن 💰  1,700 ريال شهريًا فقط 📞  0554322675 📝  ترخيص الإعلان: 7100308381 ✨  راحة المكان تبدأ من اختيارك الصحيح.",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Mraykh, East Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 1700.0,
+      "currency": "SAR",
+      "formatted": "1,700 SAR"
+    },
+    "bedrooms": 1,
+    "bathrooms": null,
+    "area_sqm": 730.99,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-73099-sqm-with-1-bedroom-5891085",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891093",
+    "source": "Wasalt",
+    "project_name": "Apartment 316 SQM with 1 Bedroom",
+    "description": "🌟  فرصة سكنية مميزة للإيجار | بحرة – حي الأصالة  🌟 🏡  شقق مخدومة بالكامل… راحة وخصوصية بسعر مناسب! إذا كنت تبحث عن سكن  مرتب، هادئ، ومتكامل الخدمات  وبسعر اقتصادي، فهذه الفرصة تستحق اهتمامك 👌 🏠  مكونات الشقة: 🛏️ غرفة نوم خاصة 🛋️ صالة مريحة 🍳 مطبخ مستقل 🚿 دورة مياه 💎  مميزات السكن: 🔌 شقق مخدومة بالكامل 💧💡 الإيجار شامل الماء والكهرباء 🧹 نظافة وصيانة دورية 🚨 أمن وحراسة على مدار 24 ساعة 🛗 العمارة مجهزة بمصعدين 🅿️ موقف سيارات متوفر 📍 موقع مميز وقريب من الخدمات والمرافق العامة 👤  مناسب للأفراد فقط 💰  الإيجار الشهري: 1,500 ريال فقط! 📝  رقم ترخيص الإعلان:  7100308765 📞  للحجز والاستفسار: 0554322675 🔥  سكن مخدوم، خدمات متكاملة، وسعر مناسب… تواصل الآن واحجز وحدتك!",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Al Jumum - Bahra",
+      "address": "Al Fanar, Al Jumum - Bahra"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 1500.0,
+      "currency": "SAR",
+      "formatted": "1,500 SAR"
+    },
+    "bedrooms": 1,
+    "bathrooms": null,
+    "area_sqm": 316.0,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-316-sqm-with-1-bedroom-5891093",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891090",
+    "source": "Wasalt",
+    "project_name": "Apartment 122.58 SQM with 4 Bedrooms",
+    "description": "تملك داخل حد الحرم بدئا من 435 الف الشوقية.السبهاني.الشافعي ابتداء من 435 الف 💎المواصفات : 📐  شقة فاخرة مساحات مختلفة  💎 ثلاث غرف 💎ثلاث دورات مياه 💎 مطبخ 💎 صالة كبيرة  💎خزانين سفلي وعلوي (معزول كامل 💎جميع الخدمات صرف مياه الياف بصرية موجودة 💎نظام دفاع مدني 💎كاميرات مراقبة للمواقف والمدخل 💎كاميرات خاصه لكل شقه 💎دخول ذكي بالبصمة 💎حساسات إضاءة في دورات المياه 💎حارس خاص للعمارة  غرف مشتركة للسائقين 💎بديل الخشب وبديل الجبس الفوم وورق جدران نوعية ممتازة 💎إضاءات مخفية وموفرة للطاقة 💎سخانات وشفاطات مخفية 💎شبابيك كبيرة  ومطلة   💎انتركوم بكاميرا لكل شقة 💎ضمان على السباكة والكهرباء والاساسات 💎جميع الشقق معزولة عزل مائي وحراري وعازل صوت 💎البناء حسب نظام الكود السعودي 💎مصعد ممتاز بضمان على المكينة 5 سنوات يتم تسليم الشقق للعميل 💎 💎مغسلة بواسطة شركة نظافة خاصة 💎💎خدمات ما بعد البيع والضمانات هيا التي تتميز فيها مشاريعنا 💎💎   لا يوجد عمولة على الشاري او دلالة،  البيع من المالك فورا للتواصل والاستفسارات أو الحجز 0551000605",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Makkah Al Mukarramah",
+      "address": "Almouhamdeah, Makkah Al Mukarramah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 435000.0,
+      "currency": "SAR",
+      "formatted": "435,000 SAR"
+    },
+    "bedrooms": 4,
+    "bathrooms": null,
+    "area_sqm": 122.58,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-12258-sqm-with-4-bedrooms-5891090",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891089",
+    "source": "Wasalt",
+    "project_name": "Apartment 184.36 SQM with 5 Bedrooms",
+    "description": "روفات فاخرة مساحات مختلفة   تبدأ الاسعار من 610000 الف  ثلاث غرف ثلاث دورات مياه مطبخ صالة كبيرة  غرفة خادمة بحمام خزانين سفلي وعلوي (معزول كامل جميع الخدمات صرف مياه الياف بصرية موجودة نظام دفاع مدني كاميرات مراقبة للمواقف والمدخل كاميرات خاصه لكل شقه دخول ذكي بالبصمة حساسات إضاءة في دورات المياه حارس خاص للعمارة  غرف مشتركة للسائقين بديل الخشب وبديل الجبس الفوم وورق جدران نوعية ممتازة إضاءات مخفية وموفرة للطاقة سخانات وشفاطات مخفية شبابيك كبيرة  ومطلة   انتركوم بكاميرا لكل شقة سليك الكهرباء الافياش والمفاتيح  من شركة الفنار بضمان حقيقي واستبدال مجاني في حال الأعطال ضمان على السباكة والكهرباء والاساسات جميع الشقق معزولة عزل مائي وحراري وعازل صوت البناء حسب نظام الكود السعودي مصعد ممتاز بضمان على المكينة 5 سنوات يتم تسليم الشقق للعميل  مغسلة بواسطة شركة نظافة خاصة خدمات ما بعد البيع والضمانات هيا التي تتميز فيها مشاريعنا  لا يوجد عمولة على الشاري او دلالة،  البيع من المالك فورا للتواصل والاستفسارات أو الحجز 0551000605",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Makkah Al Mukarramah",
+      "address": "Almouhamdeah, Makkah Al Mukarramah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 600000.0,
+      "currency": "SAR",
+      "formatted": "600,000 SAR"
+    },
+    "bedrooms": 5,
+    "bathrooms": null,
+    "area_sqm": 184.36,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-18436-sqm-with-5-bedrooms-5891089",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891092",
+    "source": "Wasalt",
+    "project_name": "Apartment 122.58 SQM with 3 Bedrooms",
+    "description": "تملك داخل حد الحرم بدئا من 435 الف الشوقية.السبهاني.الشافعي ابتداء من 435 الف 💎المواصفات : 📐  شقة فاخرة مساحات مختلفة  💎 ثلاث غرف 💎ثلاث دورات مياه 💎 مطبخ 💎 صالة كبيرة  💎خزانين سفلي وعلوي (معزول كامل 💎جميع الخدمات صرف مياه الياف بصرية موجودة 💎نظام دفاع مدني 💎كاميرات مراقبة للمواقف والمدخل 💎كاميرات خاصه لكل شقه 💎دخول ذكي بالبصمة 💎حساسات إضاءة في دورات المياه 💎حارس خاص للعمارة  غرف مشتركة للسائقين 💎بديل الخشب وبديل الجبس الفوم وورق جدران نوعية ممتازة 💎إضاءات مخفية وموفرة للطاقة 💎سخانات وشفاطات مخفية 💎شبابيك كبيرة  ومطلة   💎انتركوم بكاميرا لكل شقة 💎ضمان على السباكة والكهرباء والاساسات 💎جميع الشقق معزولة عزل مائي وحراري وعازل صوت 💎البناء حسب نظام الكود السعودي 💎مصعد ممتاز بضمان على المكينة 5 سنوات يتم تسليم الشقق للعميل 💎 💎مغسلة بواسطة شركة نظافة خاصة 💎💎خدمات ما بعد البيع والضمانات هيا التي تتميز فيها مشاريعنا 💎💎   لا يوجد عمولة على الشاري او دلالة،  البيع من المالك فورا للتواصل والاستفسارات أو الحجز 0551000605",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Makkah Al Mukarramah",
+      "address": "Almouhamdeah, Makkah Al Mukarramah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 435000.0,
+      "currency": "SAR",
+      "formatted": "435,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": null,
+    "area_sqm": 122.58,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-12258-sqm-with-3-bedrooms-5891092",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891091",
+    "source": "Wasalt",
+    "project_name": "Apartment 166.46 SQM with 4 Bedrooms",
+    "description": "Apartment for Sale in Almouhamdeah, Makkah Al Mukarramah Built up Area: 166.46 SQM The property has 4 bedrooms Apartment has electricity and water Connections Building year: 2026 Price: 580000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Makkah Al Mukarramah",
+      "address": "Almouhamdeah, Makkah Al Mukarramah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 580000.0,
+      "currency": "SAR",
+      "formatted": "580,000 SAR"
+    },
+    "bedrooms": 4,
+    "bathrooms": null,
+    "area_sqm": 166.46,
+    "amenities": [
+      "Electricity",
+      "Water",
+      "Parking",
+      "Air Conditioning"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-16646-sqm-with-4-bedrooms-5891091",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891096",
+    "source": "Wasalt",
+    "project_name": "Apartment with 3 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 1  Apartment is located on  1 street The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking   -   2 Separate Entrances Property fixtures:   -   Split AC   -   Elevator Price: 399000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 399000.0,
+      "currency": "SAR",
+      "formatted": "399,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5891096",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891076",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 2  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 287000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 287000.0,
+      "currency": "SAR",
+      "formatted": "287,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891076",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891106",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 2  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 299000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 299000.0,
+      "currency": "SAR",
+      "formatted": "299,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891106",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891070",
+    "source": "Wasalt",
+    "project_name": "Apartment with 4 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Nuzha, Jeddah Built up Area: 700 SQM Property Floor : 3 The property has 5 floors, 4 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking   -   2 Separate Entrances Property fixtures:   -   Split AC   -   Elevator Price: 455000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Nuzha, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 455000.0,
+      "currency": "SAR",
+      "formatted": "455,000 SAR"
+    },
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area_sqm": 700.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-4-bedrooms-5891070",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891065",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Nuzha, Jeddah Built up Area: 700 SQM Property Floor : 1 The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 295000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Nuzha, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 295000.0,
+      "currency": "SAR",
+      "formatted": "295,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 700.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891065",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891082",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 3  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 287000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 287000.0,
+      "currency": "SAR",
+      "formatted": "287,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891082",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891080",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 1  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 276000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 276000.0,
+      "currency": "SAR",
+      "formatted": "276,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891080",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891064",
+    "source": "Wasalt",
+    "project_name": "Apartment with 3 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Rabbwah, Jeddah Built up Area: 675 SQM Property Floor : 2 The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking   -   2 Separate Entrances Property fixtures:   -   Split AC   -   Elevator Price: 349000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Rabbwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 349000.0,
+      "currency": "SAR",
+      "formatted": "349,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 675.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5891064",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891066",
+    "source": "Wasalt",
+    "project_name": "Apartment with 3 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Nuzha, Jeddah Built up Area: 700 SQM Property Floor : 3 The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking   -   2 Separate Entrances Property fixtures:   -   Split AC   -   Elevator Price: 354000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Nuzha, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 354000.0,
+      "currency": "SAR",
+      "formatted": "354,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 700.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5891066",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891095",
+    "source": "Wasalt",
+    "project_name": "Apartment with 3 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 2  Apartment is located on  1 street The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking   -   2 Separate Entrances Property fixtures:   -   Split AC   -   Elevator Price: 387000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 387000.0,
+      "currency": "SAR",
+      "formatted": "387,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5891095",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891062",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Rabbwah, Jeddah Built up Area: 675 SQM Property Floor : 3 The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 289000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Rabbwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 289000.0,
+      "currency": "SAR",
+      "formatted": "289,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 675.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891062",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891107",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 3  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 299000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 299000.0,
+      "currency": "SAR",
+      "formatted": "299,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891107",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891067",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Nuzha, Jeddah Built up Area: 700 SQM Property Floor : 3 The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 290000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Nuzha, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 290000.0,
+      "currency": "SAR",
+      "formatted": "290,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 700.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891067",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891075",
+    "source": "Wasalt",
+    "project_name": "Apartment with 3 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 3  Apartment is located on  1 street The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Staircase   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 387000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 387000.0,
+      "currency": "SAR",
+      "formatted": "387,000 SAR"
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5891075",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891077",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 3  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 276000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 276000.0,
+      "currency": "SAR",
+      "formatted": "276,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891077",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891081",
+    "source": "Wasalt",
+    "project_name": "Apartment with 2 Bedrooms",
+    "description": "Apartment for Sale in Al Marwah, Jeddah Built up Area: 780 SQM Property Floor : 2  Apartment is located on  1 street The property has 5 floors, 2 bedrooms, 2 bathrooms, 1 living room Apartment has electricity and water Connections Building year: 2026 Property amenities:   -   Indoor Parking Property fixtures:   -   Split AC   -   Elevator Price: 287000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Marwah, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 287000.0,
+      "currency": "SAR",
+      "formatted": "287,000 SAR"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqm": 780.0,
+    "amenities": [
+      "Living Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-2-bedrooms-5891081",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "wasalt_5891069",
+    "source": "Wasalt",
+    "project_name": "Apartment with 6 Bedrooms",
+    "description": "Un-Furnished\n\nApartment for Sale in Al Nuzha, Jeddah Built up Area: 700 SQM Property Floor : 5 The property has 5 floors, 6 bedrooms, 3 bathrooms, 1 living room, 1 guest room Apartment has electricity and water Connections Building year: 2026 Apartment is: Un-Furnished Property amenities:   -   Maids Room   -   Indoor Staircase   -   Rooftop   -   Indoor Parking   -   2 Separate Entrances   -   Walk-in Closet   -   Driver Room   -   Laundry Room Property fixtures:   -   Split AC   -   Smart Home System   -   Elevator Price: 770000 SAR",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "address": "Al Nuzha, North Jeddah, Jeddah"
+    },
+    "property_type": "Apartment",
+    "price": {
+      "amount": 770000.0,
+      "currency": "SAR",
+      "formatted": "770,000 SAR"
+    },
+    "bedrooms": 6,
+    "bathrooms": 3,
+    "area_sqm": 700.0,
+    "amenities": [
+      "Living Room",
+      "Guest Room"
+    ],
+    "features": [
+      "Verified Listing",
+      "REGA Registered",
+      "Immediate Handover"
+    ],
+    "project_status": "Ready for Sale",
+    "developer": "Wasalt Partner Real Estate Agency",
+    "image_urls": [],
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-6-bedrooms-5891069",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  }
+]

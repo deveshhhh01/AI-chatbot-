@@ -1,0 +1,537 @@
+[
+  {
+    "id": "darglobal_w-residences",
+    "source": "DarGlobal",
+    "project_name": "W Residences Dubai - Downtown",
+    "description": "Step into a world of rebel luxury. The experience begins in the W Lounge, where a sophisticated and stylish atmosphere awakens your senses. Then, enter one of the exclusive residences where you will start feeling at home from the very first moment. A landmark destination between eclectic cultures and vibrant energy, immerse yourself in one of the most prominent and affluent neighborhoods in the world, Downtown Dubai. W Residences Dubai – Downtown is a distinct residential tower strategically located by Business Bay, where Dubai’s major landmarks are your natural view. Detox. Retox. Repeat. In a lifestyle of balance, rejuvenation, and enjoyment.",
+    "location": {
+      "country": "UAE",
+      "city": "Dubai",
+      "address": "Dubai, UAE"
+    },
+    "property_type": "Apartments",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Marriott International",
+    "image_urls": [
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Living_2_2_61b8d3383f.jpg",
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Pool_1_2_9402b26d1a.jpg",
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Summit_2_a29c291e59.jpg",
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Street_View_Day_2_f326829618.jpg",
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Street_Entrance_2_06e031769e.jpg",
+      "http://web.archive.org/web/20260531030938im_/https://cdn.darglobal.co.uk/WRD_Living_1_2_bc9dd6c18b.jpg"
+    ],
+    "source_url": "https://darglobal.co.uk/w-residences",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_tierra-viva",
+    "source": "DarGlobal",
+    "project_name": "Tierra Viva, Design Inspired by Automobili Lamborghini",
+    "description": "Like precious stones the exclusive villas at Tierra Viva rise gently from the land. They are carefully constructed at different levels on the hills to ensure every villa enjoys endless panoramas of the Mediterranean Sea. Hidden Treasures rising from the hill create a world of their own.",
+    "location": {
+      "country": "Spain",
+      "city": "Benahavís, Costa del Sol",
+      "address": "Benahavís, Costa del Sol, Spain"
+    },
+    "property_type": "Luxury Villas",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Automobili Lamborghini",
+    "image_urls": [
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/Painite_Villa_ext_copy_7bafee0639.jpg",
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/Painite_Villa_int_2_copy_562551c670.jpg",
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/Painite_Villa_int_1_copy_8d76783c31.jpg",
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/DG_AL_Zafiro_Villa_Int_Master_Bedroom_2_dfa6c47c59.jpg",
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/DG_AL_Zafiro_Villa_Int_Living_Kitchen_2_c445e5e148.jpg",
+      "http://web.archive.org/web/20260531042414im_/https://cdn.darglobal.co.uk/DG_AL_Zafiro_Villa_Int_Living_2_0faff39b0c.jpg"
+    ],
+    "source_url": "https://darglobal.co.uk/tierra-viva",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_davinci-tower-by-pagani",
+    "source": "DarGlobal",
+    "project_name": "DaVinci Tower by Pagani",
+    "description": "DaVinci Tower by Pagani is an exclusive luxury development by DarGlobal & Pagani Automobili, located in Dubai (Downtown & Dubai Canal), UAE. Offering signature Luxury Apartments & Penthouses with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "UAE",
+      "city": "Dubai (Downtown & Dubai Canal)",
+      "address": "Dubai (Downtown & Dubai Canal), UAE"
+    },
+    "property_type": "Luxury Apartments & Penthouses",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Handover",
+    "developer": "DarGlobal & Pagani Automobili",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/davinci-tower-by-pagani",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_urban-oasis-by-missoni",
+    "source": "DarGlobal",
+    "project_name": "Urban Oasis by Missoni",
+    "description": "The Urban Oasis offers exclusive living spaces with private elevators and 360-degree views of the Dubai Canal and city. Each unit features a closed kitchen, expansive bedrooms with en-suite bathrooms, and stylish living areas. Designed for the elite, these residences combine luxury with Miami vibes. An oasis in the city. The Urban Oasis is situated directly on Dubai Canal and a stone throw away from Dubai’s most premium lifestyle locations. Experience an unmatched Miami Beach-like vibe right at your doorstep.",
+    "location": {
+      "country": "UAE",
+      "city": "Dubai (Business Bay / Dubai Canal)",
+      "address": "Dubai (Business Bay / Dubai Canal), UAE"
+    },
+    "property_type": "Apartments & Penthouses",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Completed / Handover",
+    "developer": "DarGlobal & Missoni",
+    "image_urls": [
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/Missoni_35_2a176b8e6e.webp",
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/UCP_09788_HDR_Edit_copy_adcc068a7a.webp",
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/p5_9f06aa2f73.jpg",
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/p4_2d75e2db08.jpg",
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/UCP_09945_HDR_Edit_2_e2ae73e13a.webp",
+      "http://web.archive.org/web/20260531042759im_/https://cdn.darglobal.co.uk/UCP_09793_HDR_Edit_copy_d003e744d7.webp"
+    ],
+    "source_url": "https://darglobal.co.uk/urban-oasis-by-missoni",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_aida-360",
+    "source": "DarGlobal",
+    "project_name": "AIDA 360 Muscat",
+    "description": "AIDA 360 Muscat is an exclusive luxury development by DarGlobal & Omran Group, located in Muscat, Oman. Offering signature Villas & Gated Community with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "Oman",
+      "city": "Muscat",
+      "address": "Muscat, Oman"
+    },
+    "property_type": "Villas & Gated Community",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Omran Group",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/aida-360",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_trump-tower-jeddah",
+    "source": "DarGlobal",
+    "project_name": "Trump Tower Jeddah",
+    "description": "Trump Tower Jeddah is an exclusive luxury development by DarGlobal & Trump Organization, located in Jeddah (Corniche), Saudi Arabia. Offering signature Luxury Hotel & Branded Residences with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "Saudi Arabia",
+      "city": "Jeddah (Corniche)",
+      "address": "Jeddah (Corniche), Saudi Arabia"
+    },
+    "property_type": "Luxury Hotel & Branded Residences",
+    "price": {
+      "amount": null,
+      "currency": "SAR",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Pre-launch / Enabling Works",
+    "developer": "DarGlobal & Trump Organization",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/trump-tower-jeddah",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_the-astera-interiors-by-aston-martin",
+    "source": "DarGlobal",
+    "project_name": "The Astera, Interiors by Aston Martin",
+    "description": "The Astera, Interiors by Aston Martin is an exclusive luxury development by DarGlobal & Aston Martin, located in Ras Al Khaimah (Al Marjan Island), UAE. Offering signature Beachfront Residences with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "UAE",
+      "city": "Ras Al Khaimah (Al Marjan Island)",
+      "address": "Ras Al Khaimah (Al Marjan Island), UAE"
+    },
+    "property_type": "Beachfront Residences",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Aston Martin",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/press/dar-global-introduces-stunning-beach-residence-the-astera-interiors-by-aston-martin",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_les-vagues",
+    "source": "DarGlobal",
+    "project_name": "Les Vagues by Elie Saab",
+    "description": "The interiors at Les Vagues offers a spectacular grace where shapes and colors blend harmoniously. Shades of creams and grey, metals with shiny finishes, bronze, marble and premium stone, are considered with a level of exquisite craftsmanship rarely seen. One that leaves a lasting impression of refined elegance, one that could only come from the world’s leading haute couture designer ELIE SAAB. A man-made paradise on earth, Qetaifan Island North is 1.3 million square meters of picturesque luxuriousness destined to become an internationally recognized landmark and a symbol of Qatar’s burgeoning future. Welcome to a designer legacy, where craftsmanship meets innovation, and creativity knows no bounds.",
+    "location": {
+      "country": "Qatar",
+      "city": "Doha (Qetaifan Island North)",
+      "address": "Doha (Qetaifan Island North), Qatar"
+    },
+    "property_type": "Sea-front Luxury Apartments",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Luxurious 5-star Amenities and Hotels"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Elie Saab",
+    "image_urls": [
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/ELS_Kitchen_Dining_Area_1024x599_256ff0ab80.jpg",
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/ELS_Courtyard_1024x599_92104c2831.jpg",
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/ELS_Lobby_1_1024x576_a9cbf28d0a.jpg",
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/LV_1_71ea05cd0d.jpg",
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/LV_2_39358cca5d.jpg",
+      "http://web.archive.org/web/20260531042225im_/https://cdn.darglobal.co.uk/LV_3_15f9232161.jpg"
+    ],
+    "source_url": "https://darglobal.co.uk/les-vagues",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_dg1-residences",
+    "source": "DarGlobal",
+    "project_name": "DG1 Living Residences",
+    "description": "DG1 Living Residences is an exclusive luxury development by DarGlobal, located in Dubai (Business Bay), UAE. Offering signature Luxury Residences with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "UAE",
+      "city": "Dubai (Business Bay)",
+      "address": "Dubai (Business Bay), UAE"
+    },
+    "property_type": "Luxury Residences",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/blog/discover-dg1-residences-luxury-living-in-the-heart-of-dubai",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_marriott-residences-aida-oman",
+    "source": "DarGlobal",
+    "project_name": "Marriott Residences AIDA",
+    "description": "Marriott Residences AIDA is an exclusive luxury development by DarGlobal & Marriott International, located in Muscat (Yiti & Yenkit), Oman. Offering signature Branded Luxury Residences & Oceanfront Villas with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "Oman",
+      "city": "Muscat (Yiti & Yenkit)",
+      "address": "Muscat (Yiti & Yenkit), Oman"
+    },
+    "property_type": "Branded Luxury Residences & Oceanfront Villas",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Marriott International",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/marriott-residences-aida-oman",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_fairway-villas-aida-oman",
+    "source": "DarGlobal",
+    "project_name": "Fairway Villas at AIDA",
+    "description": "Fairway Villas at AIDA is an exclusive luxury development by DarGlobal & Trump International Golf Club, located in Muscat, Oman. Offering signature Golf & Coastal Villas with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "Oman",
+      "city": "Muscat",
+      "address": "Muscat, Oman"
+    },
+    "property_type": "Golf & Coastal Villas",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Trump International Golf Club",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/fairway-villas-aida-oman",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_painite-villas",
+    "source": "DarGlobal",
+    "project_name": "Painite Villas by Automobili Lamborghini",
+    "description": "The Painite Villas are the only villas in the South of Spain with the exclusive Sky Car Lift with technology by Automobili Lamborghini. Located in the hills of Benahavis, overlooking Marbella, the Painite Villas rise out from the hills, offering panoramic views of the Mediterranean Sea and the Andalusian landscape. The villas fitted with Automobili Lamborghini interiors have their very own private car elevator. The Sky Car Lift has access to both levels of the villa, seamlessly integrating your supercar into your living space. The entrance to the Painite Villa is nothing short of breathtaking. As you drive into the villa via the Sky Car Lift, you're enveloped in a protective glass dome that offers a stunning 360-degree view of your supercar. Inside, you're greeted by spacious, light-filled interiors where floor-to-ceiling windows seamlessly blend the indoors with the outdoors. Here, your supercar is the centerpiece, showcased like a piece of art against the magnificent backdrop of the Mediterranean Sea. The villa boasts six luxurious bedrooms, expansive roof terraces, and panoramic views of the Mediterranean Sea from every angle. Complementing this are the extensive swimming pool and lush, meticulously designed gardens, making the villa a gateway to unparalleled luxury. The Painite Villas are masterfully positioned on the hilltops, where careful leveling ensures that each villa enjoys unobstructed, panoramic views. From this elevated vantage point, the villas offer breathtaking vistas that stretch across the horizon, providing an uninterrupted connection to the surrounding landscape. The strategic placement of these villas maximizes the stunning scenery and creates a sense of serenity and exclusivity. Each villa features expansive roof terraces that provide an ideal setting for relaxation or entertaining, all while enjoying panoramic views of the Mediterranean Sea from every angle. The outdoor space is thoughtfully designed, offering a perfect spot for a pool if desired, and is surrounded by meticulously landscaped luxury gardens that offer a serene escape. Every aspect of these villas is crafted to create a harmonious blend of luxury, comfort, and natural beauty.",
+    "location": {
+      "country": "Spain",
+      "city": "Benahavís",
+      "address": "Benahavís, Spain"
+    },
+    "property_type": "Ultra-Luxury Villas",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Automobili Lamborghini",
+    "image_urls": [
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/Asset_4_2_6d80626d35.png",
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/DG_AL_Zafiro_Villa_Int_Living_e47a0e6ea6.jpg",
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/Painite_Villa_int_2_1_60c68388b9.jpg",
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/Painite_Villa_ext_copy_8eeb5194f9.jpg",
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/DG_AL_Tierra_Viva_Aerial_1_d6c70d43c2.jpg",
+      "http://web.archive.org/web/20260531030844im_/https://cdn.darglobal.co.uk/DG_AL_Tierra_Viva_Aerial_3_cd5a4f0704.jpg"
+    ],
+    "source_url": "https://darglobal.co.uk/one-of-one/painite-villas-design-inspired-by-Automobili-Lamborghini",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_fendi-casa-azure-villas",
+    "source": "DarGlobal",
+    "project_name": "Fendi Casa Azure Oceanfront Villas",
+    "description": "Fendi Casa Azure Oceanfront Villas is an exclusive luxury development by DarGlobal & Fendi Casa, located in Muscat, Oman. Offering signature Oceanfront Villas with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "Oman",
+      "city": "Muscat",
+      "address": "Muscat, Oman"
+    },
+    "property_type": "Oceanfront Villas",
+    "price": {
+      "amount": null,
+      "currency": "USD",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Fendi Casa",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/one-of-one/fendi-casa-azure-oceanfront-villas",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  },
+  {
+    "id": "darglobal_trump-international-hotel-tower-dubai",
+    "source": "DarGlobal",
+    "project_name": "Trump International Hotel & Tower Dubai",
+    "description": "Trump International Hotel & Tower Dubai is an exclusive luxury development by DarGlobal & Trump Organization, located in Dubai, UAE. Offering signature Luxury Hotel & Branded Penthouses with bespoke architectural finishes and world-class hospitality amenities.",
+    "location": {
+      "country": "UAE",
+      "city": "Dubai",
+      "address": "Dubai, UAE"
+    },
+    "property_type": "Luxury Hotel & Branded Penthouses",
+    "price": {
+      "amount": null,
+      "currency": "AED",
+      "formatted": "Price upon request"
+    },
+    "bedrooms": "1 - 5 Bedrooms",
+    "bathrooms": null,
+    "amenities": [
+      "Swimming Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "Private Balconies",
+      "24/7 Security"
+    ],
+    "features": [
+      "Branded Luxury Partnership",
+      "High Investment Potential",
+      "Prime Panoramic Views"
+    ],
+    "project_status": "Under Construction",
+    "developer": "DarGlobal & Trump Organization",
+    "image_urls": [],
+    "source_url": "https://darglobal.co.uk/trump-international-hotel-and-tower-dubai",
+    "scraped_at": "2026-11-18T18:30:00Z"
+  }
+]
