@@ -1,8 +1,8 @@
 import os
 from pathlib import Path
-from typing import List
+from typing import List, Union
 from pydantic_settings import BaseSettings, SettingsConfigDict
-from pydantic import Field
+from pydantic import Field, field_validator
 
 # Base directory for the backend
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
@@ -18,6 +18,27 @@ class Settings(BaseSettings):
     APP_NAME: str = "DarGlobal & Wasalt Real Estate Intelligence"
     API_V1_PREFIX: str = "/api/v1"
     DEBUG: bool = False
+
+    @field_validator("DEBUG", mode="before")
+    @classmethod
+    def parse_debug(cls, v):
+        if isinstance(v, str):
+            return v.lower() in ("true", "1", "yes", "on", "debug")
+        return bool(v)
+
+    @field_validator("CHROMA_PERSIST_DIR", "SQLITE_DB_PATH", "RAW_DATA_DIR", "PROCESSED_DATA_DIR", mode="after")
+    @classmethod
+    def resolve_paths(cls, v: str) -> str:
+        p = Path(v)
+        if not p.is_absolute():
+            # If path starts with 'backend/' or relative to project root
+            cand1 = (BASE_DIR.parent / p).resolve()
+            if cand1.exists() or (BASE_DIR.parent / p.parts[0]).exists() or p.parts[0] == "backend":
+                return str(cand1)
+            # Or if it's relative to BASE_DIR
+            cand2 = (BASE_DIR / p).resolve()
+            return str(cand2)
+        return str(p.resolve())
 
     # LLM Settings
     LLM_PROVIDER: str = Field(default="gemini", description="LLM provider: 'gemini' or 'openrouter'")

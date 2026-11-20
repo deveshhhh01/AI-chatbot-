@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { User, Bot, Copy, Check, ChevronDown, ChevronUp, BookOpen } from 'lucide-react';
+import ReactMarkdown from 'react-markdown';
+import { User, Bot, Copy, Check, ChevronDown, ChevronUp, BookOpen, ExternalLink } from 'lucide-react';
 import type { ChatMessage as ChatMessageType } from '../types';
 import { SourceCard } from './SourceCard';
 
@@ -34,10 +35,39 @@ export const ChatMessage: React.FC<ChatMessageProps> = ({ message }) => {
               : 'bg-white text-slate-800 border border-slate-200 rounded-tl-none shadow-sm'
           }`}
         >
-          <div className="whitespace-pre-wrap">{message.content}</div>
+          {isUser ? (
+            <div className="whitespace-pre-wrap">{message.content}</div>
+          ) : (
+            <div className="prose prose-sm max-w-none text-slate-800 space-y-2">
+              <ReactMarkdown
+                components={{
+                  p: ({ children }) => <p className="mb-2 last:mb-0 leading-relaxed">{children}</p>,
+                  strong: ({ children }) => <strong className="font-semibold text-slate-900">{children}</strong>,
+                  ul: ({ children }) => <ul className="list-disc pl-5 my-2 space-y-1">{children}</ul>,
+                  ol: ({ children }) => <ol className="list-decimal pl-5 my-2 space-y-1">{children}</ol>,
+                  li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+                  h3: ({ children }) => <h3 className="font-bold text-base text-slate-900 mt-3 mb-1">{children}</h3>,
+                  h4: ({ children }) => <h4 className="font-semibold text-sm text-slate-900 mt-2 mb-1">{children}</h4>,
+                  a: ({ href, children }) => (
+                    <a
+                      href={href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-0.5 text-[#0B192C] font-semibold underline decoration-[#C5A880] hover:text-[#C5A880] transition-colors"
+                    >
+                      <span>{children}</span>
+                      <ExternalLink className="w-3 h-3 inline" />
+                    </a>
+                  ),
+                }}
+              >
+                {message.content}
+              </ReactMarkdown>
+            </div>
+          )}
 
           {message.isStreaming && (
-            <span className="inline-block w-2 h-4 ml-1 bg-[#C5A880] animate-pulse" />
+            <span className="inline-block w-2 h-4 ml-1 bg-[#C5A880] animate-pulse align-middle" />
           )}
 
           {!isUser && !message.isStreaming && (
@@ -45,7 +75,7 @@ export const ChatMessage: React.FC<ChatMessageProps> = ({ message }) => {
               <span>Verified AI Output</span>
               <button
                 onClick={handleCopy}
-                className="inline-flex items-center gap-1 hover:text-[#0B192C] transition-colors p-1"
+                className="inline-flex items-center gap-1 hover:text-[#0B192C] transition-colors p-1 cursor-pointer"
                 title="Copy response"
               >
                 {copied ? <Check className="w-3.5 h-3.5 text-emerald-600" /> : <Copy className="w-3.5 h-3.5" />}
@@ -60,7 +90,7 @@ export const ChatMessage: React.FC<ChatMessageProps> = ({ message }) => {
           <div className="mt-3 w-full">
             <button
               onClick={() => setShowSources(!showSources)}
-              className="flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 transition-colors mb-2"
+              className="flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 transition-colors mb-2 cursor-pointer"
             >
               <BookOpen className="w-3.5 h-3.5 text-[#C5A880]" />
               <span>Verified Sources ({message.sources.length})</span>
