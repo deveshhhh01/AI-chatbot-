@@ -1,5 +1,19 @@
-FROM python:3.12-slim
+# ==========================================
+# Stage 1: Build React Frontend
+# ==========================================
+FROM node:22-alpine AS frontend-builder
+WORKDIR /app/frontend
 
+COPY frontend/package*.json ./
+RUN npm install
+
+COPY frontend ./
+RUN npm run build
+
+# ==========================================
+# Stage 2: Production Backend & Full-Stack Runner
+# ==========================================
+FROM python:3.12-slim
 WORKDIR /app
 
 # Install system dependencies
@@ -18,6 +32,9 @@ RUN mkdir -p /app/backend/data/raw /app/backend/data/processed /app/backend/data
 
 # Copy backend application and existing seeded persistent data
 COPY backend /app/backend
+
+# Copy compiled frontend from Stage 1 into the container
+COPY --from=frontend-builder /app/frontend/dist /app/frontend/dist
 
 # Create a non-root user and grant permissions
 RUN useradd -m -u 1000 appuser && \

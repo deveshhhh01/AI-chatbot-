@@ -50,6 +50,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+from fastapi.staticfiles import StaticFiles
+
 # Include API Routers
 app.include_router(health.router, prefix=settings.API_V1_PREFIX)
 app.include_router(chat.router, prefix=settings.API_V1_PREFIX)
@@ -57,11 +59,15 @@ app.include_router(projects.router, prefix=settings.API_V1_PREFIX)
 app.include_router(sources.router, prefix=settings.API_V1_PREFIX)
 app.include_router(scraping.router, prefix=settings.API_V1_PREFIX)
 
-
-@app.get("/")
-def root():
-    return {
-        "message": "Welcome to DarGlobal & Wasalt AI Real Estate Intelligence API",
-        "docs": "/docs",
-        "health": f"{settings.API_V1_PREFIX}/health"
-    }
+# Serve Frontend static assets if available (Full-stack single container mode)
+FRONTEND_DIST = Path(__file__).resolve().parent.parent.parent / "frontend" / "dist"
+if FRONTEND_DIST.exists():
+    app.mount("/", StaticFiles(directory=str(FRONTEND_DIST), html=True), name="frontend")
+else:
+    @app.get("/")
+    def root():
+        return {
+            "message": "Welcome to DarGlobal & Wasalt AI Real Estate Intelligence API",
+            "docs": "/docs",
+            "health": f"{settings.API_V1_PREFIX}/health"
+        }
