@@ -1,7 +1,8 @@
 import axios from 'axios';
 import type { SourcesOverview, HealthStatus, SourceReference } from '../types';
 
-const API_BASE = '/api/v1';
+const BACKEND_URL = (import.meta.env.VITE_BACKEND_URL || '').replace(/\/$/, '');
+const API_BASE = `${BACKEND_URL}/api/v1`;
 
 export const apiClient = axios.create({
   baseURL: API_BASE,
